@@ -7,9 +7,9 @@ import { LayoutHome } from "@/features/home/components/layout-home";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Food Delivery',
+  title: 'Noticias Perú',
   description:
-    'Deliciosos platos entregados a su puerta!',
+    'Noticias de los principales diarios de Perú: El Comercio, La República y Gestión.',
   icons: {
     icon: 'favicon.ico',
   }
